@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "Samashti.aternos.me",
-    "port": 59393,
+    "port":59393,
     "version": "",
     "try-creative": false
   },
